@@ -1,3 +1,31 @@
+Kindly taken from https://exercism.org/tracks/elixir/exercises/tournament
+
+Full credits to problem definition and project setup to the original authors.
+
+# Tolemi - Interview Exercise
+
+This repository is used as an interview exercise for engineering candidates.
+
+Instructions:
+
+- clone repository
+- checkout `implementation` branch
+- review the proposed implementation provided by another engineer
+- identify areas of improvement
+- improve, refactor the code
+- prepare to explain the changes and the reasoning behind them during the interview
+- prepare to explain further improvements that could be made to the code if you had more time
+
+Areas that we are interested in:
+
+- code quality - readability, reliability, maintainability, performance, etc.
+- readability - how easy is it to understand the code?
+- reliability - how robust is the code? how will it handle edge cases?
+- maintainability - how easy is it to maintain the code? how easy is it to add new features?
+- performance - how will this code scale? how will it handle large amounts of data?
+
+# Original README.md
+
 # Tournament
 
 Welcome to Tournament on Exercism's Elixir Track.
