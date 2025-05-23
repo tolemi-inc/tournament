@@ -24,6 +24,19 @@ Areas that we are interested in:
 - maintainability - how easy is it to maintain the code? how easy is it to add new features?
 - performance - how will this code scale? how will it handle large amounts of data?
 
+## Time Constraints
+
+We do not expect you to spend more than 2 hours on this exercise.
+
+If there is more that can be done, please include it in your feedback.
+We are aware that it is hard to cover every single improvement, edge case etc.
+Please prioritize what you believe is most important.
+
+## Assumptions
+
+Feel free to make any assumptions you need to in order to complete the exercise
+and be ready to voice them during the interview.
+
 # Original README.md
 
 # Tournament
