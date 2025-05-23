@@ -6,7 +6,7 @@ Full credits to problem definition and project setup to the original authors.
 
 This repository is used as an interview exercise for engineering candidates.
 
-Instructions:
+## Instructions
 
 - clone repository
 - checkout `implementation` branch
